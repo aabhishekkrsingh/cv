@@ -40,6 +40,13 @@ h2 {
   width: 100px;
   height: 100px;
 }
+.web {
+  border-radius: 100%;
+  box-shadow: 0 0 4px grey;
+  border: 0;
+  width: 100px;
+  height: 100px;
+}
 
 .footer-link {
   text-decoration: rgb(5, 202, 252);
