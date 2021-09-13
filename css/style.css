@@ -1,0 +1,46 @@
+body {
+  background-color: #e4f9f5;
+  text-align: center;
+}
+h1 {
+  color: #66bfbf;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: "monstserrat", sans-serif;
+  font-size: 1.5rem;
+}
+
+.upper {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.lower-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.upper-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.belt {
+  border-radius: 100%;
+  box-shadow: 0 0 4px grey;
+  border: 0;
+  width: 50;
+  height: 50;
+}
+
+.footer-link {
+  text-decoration: rgb(5, 202, 252);
+}
